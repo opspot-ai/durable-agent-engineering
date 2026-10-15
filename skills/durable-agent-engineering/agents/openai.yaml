@@ -1,0 +1,6 @@
+interface:
+  display_name: "Durable Agent Engineering"
+  short_description: "Checkpointed workflows and reconnecting agent clients"
+  default_prompt: "Use $durable-agent-engineering to design or build an authorized durable workflow while preserving project ownership, permissions, and runtime choices."
+policy:
+  allow_implicit_invocation: true
